@@ -28,4 +28,4 @@ Utilize Power BI's visualization tools to create charts, graphs, and tables repr
 
 **🎓 Project Learning:**
 Gained expertise in data analysis techniques, with a specialization in time OTT Dashboard Analysis. Delivered tangible results, including valuable insights and the creation of interactive dashboards.
-Excited to discuss more about this project and explore opportunities to apply these skills to drive success in future endeavors!
+Excited to discuss more about this project and explore opportunities to apply these skills to drive success in future endeavors!!
